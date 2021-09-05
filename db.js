@@ -1,5 +1,4 @@
 const {Sequelize} = require('sequelize');
-require('sequelize-hierarchy')(Sequelize);
 
 module.exports = new Sequelize(
     process.env.DB_NAME,
