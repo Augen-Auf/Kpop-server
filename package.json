@@ -21,8 +21,7 @@
     "jsonwebtoken": "^8.5.1",
     "pg": "^8.5.1",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^6.6.2",
-    "sequelize-hierarchy": "^2.0.1"
+    "sequelize": "^6.6.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
